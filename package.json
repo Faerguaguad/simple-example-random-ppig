@@ -14,7 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eth-cli": "^2.0.2",
     "ethers": "^6.11.1",
+    "hardhat": "^2.20.1",
+    "truffle": "^5.11.5",
     "web3": "^4.5.0"
   }
 }
