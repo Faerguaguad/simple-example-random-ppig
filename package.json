@@ -1,6 +1,6 @@
 {
   "name": "simple-example-random-ppig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "web3": "^4.5.0"
-  }
+  "license": "ISC"
 }
